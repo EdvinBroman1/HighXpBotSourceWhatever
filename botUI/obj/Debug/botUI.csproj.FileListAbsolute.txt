@@ -1,0 +1,41 @@
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\bin\Debug\botUI.exe.config
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\bin\Debug\botUI.exe
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\bin\Debug\botUI.pdb
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.csprojResolveAssemblyReference.cache
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.Form1.resources
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.Properties.Resources.resources
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.csproj.GenerateResource.Cache
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.exe
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.pdb
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.SettingsForm.resources
+c:\users\edvin.broman\documents\visual studio 2017\Projects\botUI\botUI\obj\Debug\botUI.SupportForm.resources
+C:\Users\edvin.broman\Documents\Visual Studio 2017\Projects\botUI\botUI\obj\Debug\botUI.DebuggerForm.resources
+C:\Users\Admin\Desktop\botUI\botUI\bin\Debug\botUI.exe.config
+C:\Users\Admin\Desktop\botUI\botUI\bin\Debug\botUI.exe
+C:\Users\Admin\Desktop\botUI\botUI\bin\Debug\botUI.pdb
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.DebuggerForm.resources
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.Form1.resources
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.SettingsForm.resources
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.SupportForm.resources
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.exe
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.pdb
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.AttackerForm.resources
+C:\Users\Admin\Desktop\botUI\botUI\obj\Debug\botUI.WalkerForm.resources
+G:\gay\botUI\botUI\bin\Debug\botUI.exe.config
+G:\gay\botUI\botUI\bin\Debug\botUI.exe
+G:\gay\botUI\botUI\bin\Debug\botUI.pdb
+G:\gay\botUI\botUI\obj\Debug\botUI.csprojAssemblyReference.cache
+G:\gay\botUI\botUI\obj\Debug\botUI.AttackerForm.resources
+G:\gay\botUI\botUI\obj\Debug\botUI.DebuggerForm.resources
+G:\gay\botUI\botUI\obj\Debug\botUI.Form1.resources
+G:\gay\botUI\botUI\obj\Debug\botUI.Properties.Resources.resources
+G:\gay\botUI\botUI\obj\Debug\botUI.SettingsForm.resources
+G:\gay\botUI\botUI\obj\Debug\botUI.SupportForm.resources
+G:\gay\botUI\botUI\obj\Debug\botUI.WalkerForm.resources
+G:\gay\botUI\botUI\obj\Debug\botUI.csproj.GenerateResource.cache
+G:\gay\botUI\botUI\obj\Debug\botUI.exe
+G:\gay\botUI\botUI\obj\Debug\botUI.pdb
